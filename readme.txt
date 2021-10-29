@@ -1,7 +1,10 @@
-This is a prototype built with Proto.io.
+This is a prototype for Rzqun project.
 
-Use the preview.html file to preview your prototype offline as you would in the Proto.io player: wrapped in its device skin, and in a fit-to-screen mode.
+Use the preview.html file to preview your prototype.
 
-If you have the skills to customize the code you can edit the preview.html file to change the look and feel of the preview page.
+It is highly recommended to start with sign up.
+ 
+You do not have to fill any information in any field but it is okay to do it.
 
-We strongly suggest you make no changes to the files in the /src folder.
+Unfortunately, sometimes some changes occur to the appearance of the project, the fonts, and the extent of their clarity when the devices differ
+Anyway, I have attached a PDF file with the project that shows a clear eddition
